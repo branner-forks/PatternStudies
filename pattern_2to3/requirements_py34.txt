@@ -1,0 +1,5 @@
+-e git+git@github.com:branner-forks/pattern.git@f6473cd31f02e572a8d38b1a3bd524dccef1c896#egg=Pattern-master
+coverage==3.7.1
+gnureadline==6.3.3
+ipython==2.2.0
+numpy==1.9.0
